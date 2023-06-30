@@ -1,0 +1,58 @@
+#h1{
+    background-color: rgb(211, 150, 209);
+    color: white;
+    width: 90%;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+     
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 400;
+    width: 90%;
+}
+
+body{
+    background-size: cover;
+}
+
+#object_name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+}
+
+#start{
+    background-color: lavender;
+    border-radius: 3px;
+    border: none;
+    width: 10%;
+    height: 4%;
+}
+
+#status{
+    background-color: pink;
+    border-radius: 3px;
+    border: none;
+    width: 40%;
+    height: 4%;
+}
+
+#object_found{
+    background-color: rgb(242, 101, 125);
+    border-radius: 3px;
+    border: none;
+    width: 40%;
+    height: 4%;
+}
+
+canvas{
+    border-radius: 10px;
+    background-color: rgb(248, 248, 248);
+    box-shadow: 7px 7px 7px white;
+}
